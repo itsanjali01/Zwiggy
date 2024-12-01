@@ -5,7 +5,6 @@ This repository hosts the source code for TOMATO, a dynamic food ordering websit
 ## Demo
 
 - User Panel: [https://food-delivery-frontend-s2l9.onrender.com/](https://food-delivery-frontend-s2l9.onrender.com/)
-- Admin Panel: [https://food-delivery-admin-wrme.onrender.com/](https://food-delivery-admin-wrme.onrender.com/)
 
 ## Features
 
@@ -58,12 +57,7 @@ Install dependencies (frontend)
     cd frontend
     npm install
 ```
-Install dependencies (admin)
 
-```bash
-    cd admin
-    npm install
-```
 Install dependencies (backend)
 
 ```bash
@@ -115,9 +109,6 @@ Start the Backend server
 * [JWT-Authentication](https://jwt.io/introduction)
 * [Multer](https://www.npmjs.com/package/multer)
 
-## Deployment
-
-The application is deployed on Render.
 
 ## Contributing
 
